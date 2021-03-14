@@ -1,0 +1,248 @@
+body {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+/*----------Title----------------------*/
+
+#title {
+    background: url(/site/media/background-image.png);
+    padding-right: 60px;
+}
+
+.logo {
+    width: 30%;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+.booking {
+    padding: 7px !important;
+    background-color: #e38c6c;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.booking:hover {
+    color: #e38c6c !important;
+    background-color: #333333;
+}
+
+.welcome-img {
+    margin: 25px 150px 70px;
+    height: 500px;
+    width: 350px;
+}
+
+.welcome-section {
+    margin-top: 75px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.welcome-title {
+    font-size: 3rem;
+    margin-top: 50px;
+}
+
+.welcome-text {
+    font-size: 1rem;
+    margin-top: 35px;
+    line-height: 1.5;
+    color: #7c7c74;
+}
+
+/*---------------Classes------------------*/
+#classes {
+    background-color: #f9f9f8;
+    text-align: center;
+    padding: 100px 75px 50px;
+}
+
+
+.classes-img {
+    height: 190px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.classes-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    margin: 30px;
+}
+
+.classes-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    color: #7c7c74;
+    padding: 0 50px 0;
+}
+
+/*----Testimonials-------*/
+
+#testimonials {
+    background-color: #ffffff;
+    text-align: center;
+    margin: 75px 25px 50px;
+}
+
+.testimonials-text {
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    line-height: 1.5;
+    margin: 25px;
+}
+
+.testimonials-img {
+    height: 140px;
+    width: 140px;
+    border-radius: 100%;
+    margin-bottom: 25px;
+}
+
+
+.carousel-item {
+    padding: 70px 15%;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+/*----Blog----*/
+
+#blog { 
+    background: url(/site/media/background-image-2.png);
+    padding: 120px 100px 100px 50px;
+}
+
+.blog-img {
+    width: 350px;
+    height: 500px;
+    float: right;
+}
+
+.blog-title, .blog-subtitle, .blog-text {
+    font-family: 'Playfair Display', serif;
+}
+
+.blog-title {
+    padding-top: 100px;
+    font-size: 2.7rem;
+    margin-bottom: 20px;
+}
+
+.blog-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 50px;
+}
+
+.blog-text {
+    font-size: 1rem;
+    line-height: 2;
+    color: #7c7c74;
+    margin-bottom: 35px;
+}
+
+.blog-btn {
+    margin-left: 35%;
+    padding: 10px;
+    background-color: #000000;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #f9f9f8;
+}
+
+.blog-btn:hover {
+    text-decoration: none;
+    background-color: #f9f9f8;
+    color: #000000;
+}
+
+/*---Contact------*/
+#contact {
+    text-align: center;
+    padding: 70px 0 100px 0;
+    text-align: center;
+    background-color:#f9f9f8;
+}
+
+.map {
+    display: block;
+    margin: 50px auto 50px auto;
+    width: 750px;
+    height: 350px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.location-header {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+}
+
+#form {
+    padding: 50px;
+}
+
+.contact-header, .contact-text {
+    font-family: 'Playfair Display', serif;
+}
+
+.contact-header {
+    font-size: 2rem;
+}
+
+.contact-text {
+    font-size: 1rem;
+    padding-bottom: 50px;
+}
+
+/*----Subscribe----*/
+#subscribe {
+    padding: 75px 0 100px;;
+    background-color: #ffffff;
+}
+
+.subscribe-img {
+    width: 250px;
+    height: 200px;
+    margin: 100px 75px 100px;
+    border-radius: 2%;
+}
+
+.subscribe-title, .subscribe-subtitle {
+    font-family: 'Playfair Display', serif;
+}
+
+.subscribe-title {
+    font-size: 2rem;
+    margin-top: 140px;
+}
+
+.subscribe-subtitle {
+    font-size: 1rem;
+    color: #7c7c74;
+    margin-bottom: 50px;
+}
+
+.subscribe-form {
+    margin-right: 250px;
+}
+
+/*----Footer----*/
+
+footer {
+    background: url(/site/media/background-image.png);
+    text-align: center;
+}
+
+.footer-icon {
+    margin: 25px;
+    size: 36px;
+    color: #e38c6c;
+}
