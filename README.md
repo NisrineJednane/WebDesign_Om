@@ -1,4 +1,4 @@
-Om Studio, a template for a yoga website build using bootstrap. 
+Om Studio, a website template for a yoga website build using html/css/bootstrap. 
 
 ![Image](https://i.ibb.co/jksmhD1/OM-studio-screenshot.png)
 ![Image](https://i.ibb.co/swCP8z7/Om-studio-screenshot-2.png)
